@@ -1,0 +1,10 @@
+body{
+    color: rgb(250, 250, 250);
+    background-image: radial-gradient(rgb(255, 195, 160),rgb(181, 164, 255), rgb(255, 240, 157));
+}
+
+#underline{
+    background-color: palevioletred;
+    
+}
+
